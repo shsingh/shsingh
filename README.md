@@ -3,5 +3,5 @@
 
 -->
 
-![shsingh's github stats](https://github-readme-stats.vercel.app/api?username=shsingh&layout=compact&show_icons=true)
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shsingh&&layout=compact&show_icons=true)
+![shsingh's github stats](https://github-readme-stats.vercel.app/api?username=shsingh&layout=compact&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shsingh&&layout=compact&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
