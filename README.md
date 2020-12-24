@@ -4,5 +4,4 @@
 -->
 
 ![shsingh's github stats](https://github-readme-stats.vercel.app/api?username=shsingh&show_icons=true)
-<br>
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shsingh&show_icons=true)
