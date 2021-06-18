@@ -5,5 +5,5 @@ Code courtesy of: (https://github.com/anuraghazra/github-readme-stats)
 
 -->
 
-![shsingh's github stats](https://github-readme-stats.vercel.app/api?username=shsingh&layout=compact&show_icons=true&theme=synthwave)
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shsingh&&layout=compact&show_icons=true&theme=synthwave)
+![shsingh's github stats](https://github-readme-stats.vercel.app/api?username=shsingh&layout=compact&show_icons=true&theme=solarized-dark)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=shsingh&&layout=compact&show_icons=true&theme=solarized-dark)
