@@ -1,1 +1,25 @@
-![Metrics](https://metrics.lecoq.io/shsingh?template=classic&isocalendar=1&languages=1&habits=1&gists=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&config.timezone=Australia%2FMelbourne)
+<a href="https://github.com/shsingh">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/shsingh">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/shsingh">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/shsingh">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/shsingh">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/shsingh">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/shsingh">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
