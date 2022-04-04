@@ -16,7 +16,7 @@ jobs:
           filename: achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: jessfraz
+          user: shsingh
           base: achievements
           plugin_achievements: yes
           plugin_achievements_threshold: B      # Display achievements with rank B or higher
