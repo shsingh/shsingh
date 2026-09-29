@@ -4,14 +4,21 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches: ["master"]
+    paths-ignore: ["*.svg"]
+
+  # Prevent the bot's own SVG commits from re-triggering this workflow
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
 
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
@@ -27,7 +34,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: header.svg
           # You'll need to setup a personal token in your secrets.
@@ -43,7 +50,7 @@ jobs:
   lines:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: lines-of-code.svg
           token: ${{ secrets.METRICS_SECRET }}
@@ -54,7 +61,7 @@ jobs:
   acti_comm:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: acti_comm.svg
           # You'll need to setup a personal token in your secrets.
@@ -71,7 +78,7 @@ jobs:
   iso_calender:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: iso_calender.svg
           # You'll need to setup a personal token in your secrets.
@@ -90,7 +97,7 @@ jobs:
   habits:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: github-habits.svg
           token: ${{ secrets.METRICS_SECRET }}
@@ -108,7 +115,7 @@ jobs:
   issue_pr_lang:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
@@ -128,7 +135,7 @@ jobs:
   repositories:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: repositories.svg
           # You'll need to setup a personal token in your secrets.
