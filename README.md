@@ -2,8 +2,6 @@
   <img align="center" width="49%" src="./header.svg" /> 
 </a>
 
-[![committers.top badge](https://user-badge.committers.top/australia_private/shsingh.svg)](https://user-badge.committers.top/australia_private/shsingh)
-<br/>
 
 <a href="https://github.com/shsingh">
   <img align="center" width="49%" src="./repositories.svg" />
