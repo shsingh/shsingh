@@ -1,3 +1,13 @@
+### 🏢 Organizations & Projects
+
+| | |
+|---|---|
+| **[trishula.dev](https://github.com/trishula-dev)** | **Founder** — [trishula-dev/trishula](https://github.com/trishula-dev/trishula) |
+| **[kailash-os](https://github.com/kailash-os)** | **Founder** — [kailash-os/kailash-os](https://github.com/kailash-os/kailash-os) |
+| **[OWASP](https://github.com/OWASP)** | **Project Co-Lead** — [ML Security Top 10](https://github.com/OWASP/www-project-machine-learning-security-top-10) |
+
+### 📊 GitHub Stats
+
 <a href="https://github.com/shsingh"> 
   <img align="center" width="49%" src="./header.svg" /> 
 </a>
@@ -25,4 +35,3 @@
 <a href="https://github.com/shsingh">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
-
