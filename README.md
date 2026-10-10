@@ -1,9 +1,3 @@
-# Hi, I'm Shain 👋
-
-I'm Shain Singh — network engineer turned security architect with 30 years across
-carrier IP/MPLS, network security, and AI security. CISSP. I write on
-[shain.io](https://shain.io/) and co-authored *"The Harness Is the Contract"*.
-
 ### 🏢 Organizations & Projects
 
 | | |
