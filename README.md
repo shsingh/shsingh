@@ -1,17 +1,14 @@
-### 🏢 Organizations & Projects
-
-| | |
-|---|---|
-| **[trishula.dev](https://github.com/trishula-dev)** | **Founder** — [trishula-dev/trishula](https://github.com/trishula-dev/trishula) |
-| **[kailash-os](https://github.com/kailash-os)** | **Founder** — [kailash-os/kailash-os](https://github.com/kailash-os/kailash-os) |
-| **[OWASP](https://github.com/OWASP)** | **Project Co-Lead** — [ML Security Top 10](https://github.com/OWASP/www-project-machine-learning-security-top-10) |
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/shsingh"> 
-  <img align="center" width="49%" src="./header.svg" /> 
+<a href="https://github.com/shsingh">
+  <img align="right" src="./header.svg" alt="" />
 </a>
 
+<a href="https://github.com/trishula-dev"><img src="https://github.com/trishula-dev.png" width="22" align="center" alt="" /></a> **Founder** — [trishula-dev/trishula](https://github.com/trishula-dev/trishula)<br/>
+
+<a href="https://github.com/kailash-os"><img src="https://github.com/kailash-os.png" width="22" align="center" alt="" /></a> **Founder** — [kailash-os/kailash-os](https://github.com/kailash-os/kailash-os)<br/>
+
+<a href="https://github.com/OWASP"><img src="https://github.com/OWASP.png" width="22" align="center" alt="" /></a> **Project Co-Lead** — [ML Security Top 10](https://github.com/OWASP/www-project-machine-learning-security-top-10)
+
+<br clear="all"/>
 
 <a href="https://github.com/shsingh">
   <img align="center" width="49%" src="./repositories.svg" />
